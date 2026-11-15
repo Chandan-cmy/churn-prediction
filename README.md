@@ -21,7 +21,7 @@ likely to cancel so the retention team can intervene early.
 | Gradient Boosting (tuned)  | 0.63       | 0.72   | 0.843   |
 | Logistic Regression        | 0.61       | 0.61   | 0.841   |
 | Random Forest              | 0.59       | 0.59   | 0.821   |
-| Baseline (always No Churn) | 0.00       | 0.00   | —  |
+| Baseline (always No Churn) | 0.00       | 0.00   | ———  |
 
 > Threshold tuned to 0.343 (from default 0.5) to maximise Recall — catches 72% of churners.
 
